@@ -2,6 +2,10 @@
 
 This program allows users to create their own cosmetic products, including face cream, shampoo, and face serum. It guides the user through the process of mixing ingredients and ensures proper quantities are used.
 
+### Run on Replit
+
+To run the program online, click on the following link: [Run the program on Replit](https://replit.com/@olgapoz20052002/make-product-2)
+
 ## Features
 
 - **Product Selection:** Users can choose from three products to create.
